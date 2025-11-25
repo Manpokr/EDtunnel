@@ -7,7 +7,7 @@
 const proxyIPs = ['cdn-all.xn--b6gac.eu.org', 'cdn.xn--b6gac.eu.org', 'cdn-b100.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org', 'cdn.anycast.eu.org'];
 
 export let globalConfig = {
-	userID: 'd342d11e-d424-4583-b36e-524ab1f0afa4',
+	userID: 'ef9fa156-9717-4aa9-9a80-999be5cb2f2d',
 
 	proxyIP: proxyIPs[Math.floor(Math.random() * proxyIPs.length)],
 
